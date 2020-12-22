@@ -1,0 +1,7 @@
+
+@import '_colors';
+@import 'variables'; // Se pone _ delante para que sea palabra reservada y no de error
+
+h1 {
+    color: $principal;
+}
